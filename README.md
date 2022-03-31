@@ -1,2 +1,8 @@
 # bootstrap
-The place to work on boostrap, charter, etc
+
+Todo:
+
+* [ ] Charter Draft
+* [ ] Code of Conduct
+* [ ] IP Governance Draft
+* [ ] Work mode Draft
