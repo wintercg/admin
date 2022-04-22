@@ -1,10 +1,10 @@
-# The Other Web Platform API Community Group Charter
+# Web-interoperable Runtimes Community Group
 
-This Charter is work in progress. To submit feedback, please use https://github.com/owpacg/bootstrap Issues to discuss and provide feedback.
+This Charter is work in progress. To submit feedback, please use https://github.com/wintercg/admin Issues to discuss and provide feedback.
 
 **The name is still a work in progress**
 
-* This Charter: https://github.com/owpacg/bootstrap/blob/main/charter.md
+* This Charter: https://github.com/wintercg/wintercg/blob/main/charter.md
 * Previous Charter: N/A
 * Start Date: 2022-06
 * Last Modifed: 2022-04-14
@@ -13,11 +13,11 @@ This Charter is work in progress. To submit feedback, please use https://github.
 
 Proposed:
 
-The Other Web Platform API Community Group (OWPA) is intended to augment the work of other existing community and working groups focusing on the development of Web Platform features and APIs by focusing directly on the specific needs of non-Web Browser based implementations. Whereas existing community groups such as the Web Incubator Community Group (WICG) and the Web Hypertext Application Technology Working Group (WHATWG) are each explicitly scoped to features "that would be implemented in a browser or similar user agent", it will be the goal of the OWPA to focus on implementation of those same features in environments such as backend servers, serverless compute, IoT, command-line tools, and so forth -- essentially, everything that is *not* a browser.
+The Web-interoperable Runtimes Community Group (wintercg) is intended to augment the work of other existing community and working groups focusing on the development of Web Platform features and APIs by focusing directly on the specific needs of non-Web Browser based implementations. Whereas existing community groups such as the Web Incubator Community Group (WICG) and the Web Hypertext Application Technology Working Group (WHATWG) are each explicitly scoped to features "that would be implemented in a browser or similar user agent", it will be the goal of the wintercg to focus on implementation of those same features in environments such as backend servers, serverless compute, IoT, command-line tools, and so forth -- essentially, everything that is *not* a browser.
 
 Membership of the group is open to everybody but all participants will have signed the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/agreements/cla/).
 
-While the work of the OWPA will involve discussing and developing early ideas for new API specifications, it is not intended that the OWPA Community Group itself will publish its own specifications. Rather, the OWPA will work with existing groups such as WICG and WHATWG to advance proposals within those groups. However, in the case that a given proposal that has the support of the OWPA membership is not adopted to advance by one of these other venues, the OWPA membership can choose to publish a specification as a fallback option.
+While the work of the wintercg will involve discussing and developing early ideas for new API specifications, it is not intended that the wintercg itself will publish its own specifications. Rather, it will work with existing groups such as WICG and WHATWG to advance proposals within those groups. However, in the case that a given proposal that has the support of the wintercg membership is not adopted to advance by one of these other venues, they can choose to publish a specification as a fallback option.
 
 # Scope of Work
 
@@ -31,7 +31,7 @@ Features or ideas that do not have applicability in non-Web Browser, EcmaScript-
 
 # Deliverables
 
-The Community Group will maintain an index of proposals within the group's GitHub organization. Individual proposals may take many forms, such as discussions for contributions to other existing specifications (e.g. proposed new features, new versions of an existing specification) or even a complete new Web Platform feature specification. Each proposal must have an individual Sponsor that is a member of the OWPA Community Group. The Sponsor will provide regular status updates to both the announcement mailing list and the Community Group's GitHub.
+The Community Group will maintain an index of proposals within the group's GitHub organization. Individual proposals may take many forms, such as discussions for contributions to other existing specifications (e.g. proposed new features, new versions of an existing specification) or even a complete new Web Platform feature specification. Each proposal must have an individual Sponsor that is a member of the wintercg. The Sponsor will provide regular status updates to both the announcement mailing list and the Community Group's GitHub.
 
 ## Non-Normative Reports
 
