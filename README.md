@@ -1,12 +1,18 @@
-# bootstrap
+# WinterCG
 
-Todo:
+The Web-interoperable Runtimes Community Group aims to provide a space for JS
+runtimes to collaborate on API interoperability.
 
-* [x] Charter Draft - https://github.com/owpacg/bootstrap/issues/1
-* [x] Code of Conduct - https://github.com/owpacg/bootstrap/issues/2
-* [x] IP Governance Draft - https://github.com/owpacg/bootstrap/issues/3
-* [x] Officially Propose the Community Group - https://www.w3.org/community/groups/propose_cg/
-  * The process here is straightforward. We propose the group, have at least 5 people indicate they support it, then go from there.
-* [ ] Work mode Draft - https://github.com/owpacg/bootstrap/issues/4
-* [ ] Website (GitHub pages site ... in progress)
-  * [ ] Approval of logo use on Website
+Learn more on https://wintercg.org/.
+
+This repository contains administrative information about the community group:
+
+- Meeting notes in the
+  [meetings/](https://github.com/wintercg/admin/tree/main/meetings) directory
+- The currently adopted charter in the
+  [charter.md](https://github.com/wintercg/admin/blob/main/charter.md) file
+- Announcements of upcoming meetings (with agendas) in the
+  [issues](https://github.com/wintercg/admin/issues?q=is%3Aissue+label%3Ameeting)
+
+You can find the community group page on the W3C site here:
+https://www.w3.org/community/wintercg/
