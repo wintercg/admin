@@ -13,6 +13,7 @@ This repository contains administrative information about the community group:
   [charter.md](https://github.com/wintercg/admin/blob/main/charter.md) file
 - Announcements of upcoming meetings (with agendas) in the
   [issues](https://github.com/wintercg/admin/issues?q=is%3Aissue+label%3Ameeting)
+- Meeting Calendar (Google Calendar) - https://calendar.google.com/calendar/u/0?cid=YWNhODVkMTA2MjNhNDEwYzlmYWNmMjE3NmY4MzBmZWY4ZGZiNzU3ZDVkZWZiYmUzOTQ0NzEwNWYzZjk5OGE4MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
 You can find the community group page on the W3C site here:
 https://www.w3.org/community/wintercg/
