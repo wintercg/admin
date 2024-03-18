@@ -4,7 +4,7 @@ This Charter is work in progress. To submit feedback, please use https://github.
 
 **The name is still a work in progress**
 
-* This Charter: https://github.com/wintercg/wintercg/blob/main/charter.md
+* This Charter: [https://github.com/wintercg/wintercg/blob/main/charter.md](https://github.com/wintercg/admin/blob/main/charter.md)
 * Previous Charter: N/A
 * Start Date: 2022-06
 * Last Modifed: 2022-04-14
