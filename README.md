@@ -37,7 +37,7 @@ Here is a checklist of things to get started:
 
 - [ ] Join a WinterCG meeting. Meetings happen every two weeks, and are
       announced up-front [in this repo][meetings]. To get invited to the
-      meetings, please contact the chairs (@jasnell or @lucacasonato) on Matrix.
+      meetings, please contact the chairs (@lucacasonato or @CanadaHonk) on Matrix.
 
 - [ ] Participate in workstream discussions you are interested in. You can find
       the active workstreams at https://wintercg.org/work
