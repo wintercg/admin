@@ -46,3 +46,4 @@ we do, here is how you can help.
 [new-delegate]: https://github.com/wintercg/admin/issues/new?template=new-delegate.md
 [new-invited-expert]: https://github.com/wintercg/admin/issues/new?template=new-invited-expert.md
 [ecma-members]: https://ecma-international.org/members/
+[standardization]: ./standardization.md
