@@ -33,7 +33,7 @@ we do, here is how you can help.
   find the active workstreams at https://wintercg.org/work
 
 - You can join the WinterTC Matrix channel:
-  https://matrix.to/#/#wintercg:matrix.org. This is the primary
+  https://matrix.to/#/#wintertc:matrix.org. This is the primary
   communications channel outside of the GitHub issues.
 
 - You can [become a delegate][new-delegate] (if you are a representative of an
