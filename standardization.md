@@ -2,6 +2,8 @@
 
 As of September 2024, the WinterCG co-chairs (@lucacasonato, @CanadaHonk) and multiple participants agree to move standardization of WinterCG away from W3C and towards Ecma, as a new Ecma Technical Committee ("WinterTC"). We propose to formally take this decision in the WinterCG meeting on 2024-09-19.
 
+EDIT: As of December 2024, WinterTC has been formed, with @lucacasonato and @andreubotella as its co-chairs.
+
 ### What problem are we trying to solve?
 
 We want to standardize WinterCG work, especially the Minimum Common API. This is not possible in a W3C Community Group:

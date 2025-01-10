@@ -1,50 +1,49 @@
-# WinterCG
+# WinterTC
 
-The Web-interoperable Runtimes Community Group aims to provide a space for JS
-runtimes to collaborate on API interoperability.
+The Technical Committee on Web-interoperable Server Runtimes (a.k.a. WinterTC)
+aims to provide a space for JS runtimes to collaborate on API interoperability
+with each other and with the web.
 
-Learn more on https://wintercg.org/.
+Learn more on https://wintertc.org/.
 
-This repository contains administrative information about the community group:
+This repository contains administrative information about the technical
+committee.
 
-- Meeting notes in the
-  [meetings/](https://github.com/wintercg/admin/tree/main/meetings) directory
-- The currently adopted charter in the
-  [charter.md](https://github.com/wintercg/admin/blob/main/charter.md) file
-- Announcements of upcoming meetings (with agendas) in the
-  [issues](https://github.com/wintercg/admin/issues?q=is%3Aissue+label%3Ameeting)
-- Meeting Calendar (Google Calendar) - https://calendar.google.com/calendar/u/0?cid=YWNhODVkMTA2MjNhNDEwYzlmYWNmMjE3NmY4MzBmZWY4ZGZiNzU3ZDVkZWZiYmUzOTQ0NzEwNWYzZjk5OGE4MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+- Announcements of upcoming meetings (with agendas) in the [issues][meetings]
 
-You can find the community group page on the W3C site here:
-https://www.w3.org/community/wintercg/
+You can find the technical committee page on the Ecma site here:
+https://ecma-international.org/technical-committees/tc55/
 
-## Joining
+WinterTC was initially started as a W3C Community Group called
+[WinterCG](https://www.w3.org/community/wintercg/), but in December 2024 we
+decided to move to Ecma. You can read the reasons for this move
+[here][standardization]. At the moment, this transition is still along the way,
+so excuse some rough edges.
+
+## Participating
 
 If you are a representative of company or an individual building a
-web-interoperable runtime, or are interested in collaborating on the work in
-this CG you can join the WinterCG.
+web-interoperable runtime, or are interested in collaborating on the work that
+we do, here is how you can help.
 
-Here is a checklist of things to get started:
+- You can open an issue or a PR to any of the existing repos in this GitHub
+  organization.
 
-- [ ] Officially join the group via the W3C website:
-      https://www.w3.org/community/wintercg/. This will configure guide you
-      through accepting the IPR commitments required to participate in the
-      group.
+- You can participate in workstream discussions you are interested in. You can
+  find the active workstreams at https://wintercg.org/work
 
-- [ ] Join the WinterCG Matrix channel:
-      https://matrix.to/#/#wintercg:matrix.org. This is the primary
-      communication channel outside of the GitHub issues.
+- You can join the WinterTC Matrix channel:
+  https://matrix.to/#/#wintercg:matrix.org. This is the primary
+  communications channel outside of the GitHub issues.
 
-- [ ] Join a WinterCG meeting. Meetings happen every two weeks, and are
-      announced up-front [in this repo][meetings]. To get invited to the
-      meetings, please contact the chairs (@lucacasonato or @CanadaHonk) on Matrix.
-
-- [ ] Participate in workstream discussions you are interested in. You can find
-      the active workstreams at https://wintercg.org/work
-
-- [ ] If you are participating as a representative of a company,
-      [add your company logo to the WinterCG website][add-logo]. We kindly ask
-      you participate in at least one meeting before contributing a logo.
+- You can [become a delegate][new-delegate] (if you are a representative of an
+  [Ecma member organization][ecma-members]) or
+  [become an invited expert][new-invited-expert] (otherwise) to join the
+  WinterTC meetings. Meetings happen every two weeks, and are announced up-front
+  [in this repo][meetings].
 
 [meetings]: https://github.com/wintercg/admin/issues?q=is%3Aissue+is%3Aopen+label%3Ameeting
-[add-logo]: https://github.com/wintercg/www/issues/9
+[new-delegate]: https://github.com/wintercg/admin/issues/new?template=new-delegate.md
+[new-invited-expert]: https://github.com/wintercg/admin/issues/new?template=new-invited-expert.md
+[ecma-members]: https://ecma-international.org/members/
+[standardization]: ./standardization.md
