@@ -9,7 +9,7 @@ Learn more on https://wintertc.org/.
 This repository contains administrative information about the technical
 committee.
 
-- Announcements of upcoming meetings (with agendas) in the [issues](meetings)
+- Announcements of upcoming meetings (with agendas) in the [issues][meetings]
 
 You can find the technical committee page on the Ecma site here:
 https://ecma-international.org/technical-committees/tc55/
@@ -17,7 +17,7 @@ https://ecma-international.org/technical-committees/tc55/
 WinterTC was initially started as a W3C Community Group called
 [WinterCG](https://www.w3.org/community/wintercg/), but in December 2024 we
 decided to move to Ecma. You can read the reasons for this move
-[here](standardization). At the moment, this transition is still along the way,
+[here][standardization]. At the moment, this transition is still along the way,
 so excuse some rough edges.
 
 ## Participating
@@ -36,9 +36,9 @@ we do, here is how you can help.
   https://matrix.to/#/#wintercg:matrix.org. This is the primary
   communications channel outside of the GitHub issues.
 
-- You can [become a delegate](new-delegate) (if you are a representative of an
-  [Ecma member organization](ecma-members)) or
-  [become an invited expert](new-invited-expert) (otherwise) to join the
+- You can [become a delegate][new-delegate] (if you are a representative of an
+  [Ecma member organization][ecma-members]) or
+  [become an invited expert][new-invited-expert] (otherwise) to join the
   WinterTC meetings. Meetings happen every two weeks, and are announced up-front
   [in this repo][meetings].
 
