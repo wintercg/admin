@@ -21,5 +21,7 @@ In addition to this form, you also need to fill Ecma's Invited Expert form (http
 - Reason for becoming an invited expert: 
 - Matrix username: 
 
+----
+
 - [ ] I claim that this information is correct, and that I do not belong to an Ecma member organization.
 - [ ] I claim that I have filled [Ecma's Invited Expert form](https://ecma-international.org/invited-expert-form/) to participate in TC55.
